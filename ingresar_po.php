@@ -2,9 +2,9 @@
 <html>
     <head lang='es'>
         <meta charset='utf-8'>
-        <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
-        <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
-        <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+        <link rel="stylesheet" href="css/jquery-ui.css" />
+        <script src="js/jquery-1.9.1.js"></script>
+        <script src="js/jquery-ui.js"></script>
         <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
 
         <script>
